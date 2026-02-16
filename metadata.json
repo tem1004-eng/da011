@@ -1,0 +1,5 @@
+{
+  "name": "Gemini AI Mindful Diary",
+  "description": "A beautiful, minimalist personal diary application featuring AI-powered sentiment analysis, thematic summaries, and encouraging reflections using Gemini 3 Flash.",
+  "requestFramePermissions": []
+}
